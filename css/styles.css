@@ -259,13 +259,13 @@ body {
 	background-color: white;
 }
 #participant-12 .profile-photo {
-	background-image: url("../images/participant-photo.png");
+  background-image: url("../images/12_isares.JPG");
 }
 #participant-12 .participant-name::before {
-	/* content: "Your Name Here"; */
+  content: "isares(Na-eem)";
 }
 #participant-12 .participant-quote::before {
-	/* content: "Your inspirational quote here." */
+  content: "The best way to predict the future is to create it."
 }
 
 /* Next participant */
