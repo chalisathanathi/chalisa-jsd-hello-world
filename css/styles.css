@@ -130,16 +130,23 @@ body {
 
 /* Next participant */
 #participant-3 {
-  background-color: white;
+  background-color: #bea2d8;
+}
+#participant-3:hover {
+  background-color: #d6e6dc;
 }
 #participant-3 .profile-photo {
-  background-image: url("/images/Frame\ 4.png");
+  background-image: url("/images/Fav\ Char\ crop.jpg");
 }
 #participant-3 .participant-name::before {
   content: "03_Chalisa (Mae)";
+  color: #4d1514;
+  text-shadow: 0px 0px 2px #ffffff, 0px 0px 5px #fbf1d8;
 }
 #participant-3 .participant-quote::before {
-  /* content: "Your inspirational quote here." */
+  content: "If opportunity doesn't knock, build a door.";
+  color: #4d1514;
+  text-shadow: 0px 0px 2px #ffffff, 0px 0px 5px #fbf1d8;
 }
 
 /* Next participant */
