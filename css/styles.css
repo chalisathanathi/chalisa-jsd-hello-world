@@ -739,16 +739,22 @@ body {
 
 /* Next participant */
 #participant-40 {
-	background-color: white;
+  background-color: rgb(129, 23, 161);
+  border: 3px solid #973ec0;
+  box-shadow: 0 4px 10px rgba(35, 4, 43, 0.4);
+  border-radius: 15px;
 }
 #participant-40 .profile-photo {
-	background-image: url("../images/participant-photo.png");
+  background-image: url("../images/war.PNG");
+  border: 2px solid rgb(19, 1, 31);
 }
 #participant-40 .participant-name::before {
-	/* content: "Your Name Here"; */
+  content: "Tarm(ธาม)";
+  color: white;
 }
 #participant-40 .participant-quote::before {
-	/* content: "Your inspirational quote here." */
+  content: "Yem";
+  color: white;
 }
 
 /* Next participant */
